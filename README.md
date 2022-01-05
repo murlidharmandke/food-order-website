@@ -10,3 +10,9 @@ https://docs.google.com/forms/d/e/1FAIpQLScn88Zf5wQTzpx4z6UaHiyrGwT5OARv53YKMSe_
 
 https://tests.mettl.com/authenticateKey/3wg7g47shs
 https://amcatglobal.aspiringminds.com/
+
+
+
+URL: https://amcatglobal.aspiringminds.com/
+Username: murlidharmandke04@gmail.com_fct2
+Password: EHmPd5jw
